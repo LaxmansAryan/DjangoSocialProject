@@ -14,3 +14,5 @@
 - Create Post Page
 <img width="949" alt="5" src="https://github.com/LaxmansAryan/DjangoSocialProject/assets/102072945/75774a82-e7df-4582-98de-3d0dde21aba2">
 
+- Feed Page
+<img width="947" alt="6" src="https://github.com/LaxmansAryan/DjangoSocialProject/assets/102072945/19773c91-d0dc-4bec-a2b6-d3d3ea523fc8">
